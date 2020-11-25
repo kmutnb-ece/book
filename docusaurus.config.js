@@ -82,12 +82,12 @@ module.exports = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/konkmak/docusaurus-tutorial/edit/main/website/',
+                    editUrl: 'https://github.com/kmutnb-ece/book/edit/main/',
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/konkmak/docusaurus-tutorial/edit/master/website/blog/',
+                    editUrl: 'https://github.com/kmutnb-ece/book/edit/main/blog/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
